@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Bigmaleek
 - 👀 I’m interested in web development and mobile applications 
-- 💞️ I’m looking to collaborate on any different web development projects
-- 📫 How to reach me at maleekberry52@gmail.com
+- 💞️ I’m looking forward for to collaborate on any different web development projects
+- 📫 you can reach me on maleekberry52@gmail.com
   
 - ⚡ Fun fact: smile a lot 😁😊
 
